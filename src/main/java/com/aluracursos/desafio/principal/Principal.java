@@ -1,7 +1,6 @@
 package com.aluracursos.desafio.principal;
 
 import com.aluracursos.desafio.model.Datos;
-import com.aluracursos.desafio.model.DatosAutor;
 import com.aluracursos.desafio.model.DatosLibros;
 import com.aluracursos.desafio.service.ConsumoAPI;
 import com.aluracursos.desafio.service.ConvierteDatos;
