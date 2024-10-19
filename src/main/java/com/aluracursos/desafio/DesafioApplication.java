@@ -1,7 +1,6 @@
 package com.aluracursos.desafio;
 
 import com.aluracursos.desafio.principal.Principal;
-import com.aluracursos.desafio.service.IConvierteDatos;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
